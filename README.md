@@ -8,7 +8,7 @@
 
 💬 Ask me about DevOps...
 
-📝 I regulary write articles on 
+📝 I regulary write articles on jaybamaniya.hashnode.dev
 
 📫 How to reach me ...
 
