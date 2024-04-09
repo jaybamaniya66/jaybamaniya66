@@ -43,15 +43,14 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/376318/flutter.svg" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="react logo"  />
+  <img src="https://www.svgrepo.com/show/452054/linux.svg" height="30" alt="Linux logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
+  <br>
+  <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" height="30" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
+  <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" height="30" alt="Elaticsearch logo"  />
   <img width="12" />
 
 ###
@@ -63,18 +62,23 @@
   <a href="https://www.linkedin.com/in/jay-bamaniya-1aa7a820b/">
     <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" height="35" alt="Linkedin logo"  />
   </a>
+  <img width="25" />
   <a href="https://jaybamaniya.hashnode.dev/">
-    <img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" height="35" alt="hashnode logo"  />
+    <img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" height="40" alt="hashnode logo"  />
   </a>
+  <img width="25" />
   <a href="https://dev.to/jaybamaniya66">
     <img src="https://www.svgrepo.com/show/349334/dev-to.svg" height="35" alt="dev logo"  />
   </a>
+  <img width="25" />
   <a href="https://twitter.com/Jay69691716">
     <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" height="35" alt="twitter logo"  />
   </a>
+  <img width="25" />
   <a href="https://www.instagram.com/wizgreed/">
     <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="35" alt="instagram logo"  />
   </a>
+  <img width="25" />
 </div>
 
 ###
