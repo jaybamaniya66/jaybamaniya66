@@ -2,8 +2,8 @@
 
 👩‍💻 I'm currently working as DevOps Engineer...
 
-📝 I regulary write articles on <a href="https://jaybamaniya.hashnode.dev/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hashnode/hashnode-original.svg" height="30" alt="hashnode logo">
+📝 I regulary write articles on jaybamaniya.hashnode.dev <a href="https://jaybamaniya.hashnode.dev/">
+  <img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" height="25" alt="hashnode logo">
 </a>
 
 🧠 I'm currently learning advanced concepts DevOps ...
@@ -14,6 +14,9 @@
 
 ⚡️ Fun fact cricket lover...
 
+###
+
+<img align="right" height="90" src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2022/06/13202833/863x300-1.png/w_863"  />
 
 ###
 
@@ -30,11 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="30" alt="node logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -58,10 +59,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Feedback
 
