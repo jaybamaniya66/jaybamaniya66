@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="110" src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2022/06/13202833/863x300-1.png/w_863"  />
+<img align="right" height="150" width="350" src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2022/06/13202833/863x300-1.png/w_863"  />
 
 ###
 
@@ -41,7 +41,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://www.svgrepo.com/show/376318/flutter.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" height="30" alt="aws logo"  />
   <img width="12" />
 
 ###
@@ -50,12 +60,21 @@
 
 ## 🔗 Connect with me
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jay-bamaniya-1aa7a820b/">
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" height="35" alt="Linkedin logo"  />
+  </a>
+  <a href="https://jaybamaniya.hashnode.dev/">
+    <img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" height="35" alt="hashnode logo"  />
+  </a>
+  <a href="https://dev.to/jaybamaniya66">
+    <img src="https://www.svgrepo.com/show/349334/dev-to.svg" height="35" alt="dev logo"  />
+  </a>
+  <a href="https://twitter.com/Jay69691716">
+    <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/wizgreed/">
+    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
