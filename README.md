@@ -1,63 +1,68 @@
-
 # Hi, I'm Jay Bamaniya! 👋
-
 
 👩‍💻 I'm currently working as DevOps Engineer...
 
+📝 I regulary write articles on <a href="https://jaybamaniya.hashnode.dev/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hashnode/hashnode-original.svg" height="30" alt="hashnode logo">
+</a>
+
 🧠 I'm currently learning advanced concepts DevOps ...
 
+📫 How to reach me jaybamaniya33@gmail.com ...
+
 💬 Ask me about DevOps...
-
-📝 I regulary write articles on 
-
-📫 How to reach me ...
 
 ⚡️ Fun fact cricket lover...
 
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="30" alt="node logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+
+###
+
 ## 🔗 Connect with me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaybamaniya.odoo.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/)
-[![Github](https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://Github.com/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white)](https://Hashnode.com/)
-## 🛠 Skills
-•	AWS | Azure | CI/CD | Docker | Kubernetes | Terraform | Ansible | GitLab | Jenkins | ELK
-•	    JavaScript | Shell Scripting | Python | C++ | MSSQL | Node | Express | NoSQL | Git | | C# | .NET
-•	Microservices | Distributed Systems | System Design| JIRA | Slack
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
 
+<br clear="both">
 
-## Contributing
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Technologies and Tools
-
-#### Get all items
-
-| Category   | Tools                |
-| :--------  | :------------------------- |
-| Cloud  | AWS / AZURE |
-| Hosting/SaaS  |  HEROKU / NETLIFY |
-| Languages  | PYTHON / GO / SHELL SCRIPTING / JAVASCRIPT |
-| Frameworks  |  NODEJS / BOOTSTRAP |
-| Version Control  |  GITHUB / GITLAB |
-| Servers  | APACHE / NGINX |
-| Databases  | MYSQL / MONGODB / POSTGRESQL |
-| Deployment  | DOCKER / KUBERNETES / JENKINS / TERRAFORM /GITHUB ACTIONS  |
-| Metric & Analytics | PROMETHEUS / GRAFANA / DATADOG  |
-| Service Mesh  |  ISTIO |
-| Other         |  VISUAL STUDIO CODE |
-
+###
 
 ## Feedback
 
 If you have any feedback, please reach out to us at 
-
