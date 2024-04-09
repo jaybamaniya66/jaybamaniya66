@@ -45,9 +45,9 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452054/linux.svg" height="30" alt="Linux logo"  />
   <img width="12" />
+  <br>
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <br>
   <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" height="30" alt="postgres logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" height="30" alt="Elaticsearch logo"  />
