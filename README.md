@@ -54,6 +54,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" height="30" alt="Elaticsearch logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/353795/go.svg" height="30" alt="Go logo"  />
+  <img width="12" />
 
 ###
 
