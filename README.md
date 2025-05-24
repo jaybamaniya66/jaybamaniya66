@@ -1,6 +1,6 @@
 # Hi, I'm Jay Bamaniya! 👋
 
-👩‍💻 I'm currently working as DevOps Engineer...
+👩‍💻 I'm currently working as Sr.DevOps Engineer...
 
 📝 I regulary write articles on jaybamaniya.hashnode.dev <a href="https://jaybamaniya.hashnode.dev/">
   <img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" height="25" alt="hashnode logo">
